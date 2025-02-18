@@ -1,5 +1,6 @@
-## 👋 Hi, I'm Zst0NE.
+## Zst0NE.
 
+Thank you for visiting my repository.
 **Student**
 
 ```cmd
