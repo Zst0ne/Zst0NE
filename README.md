@@ -6,7 +6,6 @@
 C:\Users\Stone>> 
 ```
 
-<img align="left" src="https://s2.loli.net/2024/03/26/gQmf5ijPUKBo24C.jpg" alt="Priestess" width="320" /> 
 
 ```csharp
 zst0ne@GitHub
