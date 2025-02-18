@@ -35,4 +35,4 @@ Skills: None
 - [Zst0NE's Blog](https://Zst0NE.github.io/): Personal blog in Github.
 
 **📚 My Project:**
-- [qq-xml-ip](https://github.com/Zst0NE/qq-xml-ip):  QQ automatically detects target IP through xml card.
+- [qq-xml-ip](https://github.com/Zst0NE/Bukkit-CS-example):  QQ automatically detects target IP through xml card.
