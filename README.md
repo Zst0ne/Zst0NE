@@ -1,11 +1,10 @@
 ## 👋 Hi, I'm Zst0NE.
 
-**A Cyber Security Enthusiast!**
+**Student**
 
 ```cmd
 C:\Users\Stone>> 
 ```
-
 
 ```csharp
 zst0ne@GitHub
