@@ -35,4 +35,4 @@ Skills: None
 - [Zst0NE's Blog](https://Zst0NE.github.io/): Personal blog in Github.
 
 **📚 My Project:**
-- [qq-xml-ip](https://github.com/Zst0NE/Bukkit-CS-example):  QQ automatically detects target IP through xml card.
+- [Bukkit-CS-example](https://github.com/Zst0NE/Bukkit-CS-example):  Minecraft Server CSGame rule Scripts by Bukkit.
