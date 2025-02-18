@@ -21,8 +21,9 @@ Skills: None
 
 `Loser`  
 
-## 🚀 Skills
+## 🚀 Description
 
+**A real loser.I've lost in life and lost everything. Nobody cares.**  
 
 ## 🔭 Dream
 **Build the Web3 world**
