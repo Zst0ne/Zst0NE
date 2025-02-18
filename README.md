@@ -36,3 +36,9 @@ Skills: None
 
 **📚 My Project:**
 - [Bukkit-CS-example](https://github.com/Zst0NE/Bukkit-CS-example):  Minecraft Server CSGame rule Scripts by Bukkit.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
