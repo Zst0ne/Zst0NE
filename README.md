@@ -38,6 +38,8 @@ Skills: None
 - [Aimbot-Yolov3-CSGO.pt](https://github.com/Zst0ne/Game-model-of-yolov5):  The Yolov3 Auto-Locking project implemented based on the Aimbot open-source project ps:Coop with Wocw233.(Python) 2021
 - [Bukkit-CS-example](https://github.com/Zst0NE/Bukkit-CS-example):  Minecraft Server CSGame rule Scripts by Bukkit. (Java) 2022
 - [EasyHook.NetHooker](https://github.com/Zst0ne/NetHookDll3):  A network packet capture tool implemented based on EasyHook. (C#) 2023
+- NONE 2024.
+- [PHP-Hexo-blog](https://github.com/Zst0ne/blog):  PHP for imitating Hexo-theme-Butterfly blog. (PHP) 2025
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
