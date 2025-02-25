@@ -26,7 +26,8 @@ Skills: None
 ***Build the Web3 world.**  
 
 ## 🔭 Dream
-**I once had dreams, but now I think I'm a real loser. Nobody cares.**
+**I once had dreams, but now I think I'm a real loser. Nobody cares.
+If I could do it all over again, I would never have anything to do with computers. **
 ---
 
 **🌐 My Website:** 
