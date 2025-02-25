@@ -34,6 +34,7 @@ Skills: None
 - [Zst0NE's Blog](https://Zst0NE.github.io/): Personal blog in Github.
 
 **📚 My Project:**
+- ~~[Cube-Minecraft-platform](https://github.com/Zst0NE/Cube-Minecraft-platform):  Minecraft-based online dating and making friends platform based on the FRP principle.(易语言) 2020~~
 - [Aimbot-Yolov3-CSGO.pt](https://github.com/Zst0ne/Game-model-of-yolov5):  The Yolov3 Auto-Locking project implemented based on the Aimbot open-source project ps:Coop with Wocw233.(Python) 2021
 - [Bukkit-CS-example](https://github.com/Zst0NE/Bukkit-CS-example):  Minecraft Server CSGame rule Scripts by Bukkit. (Java) 2022
 - [EasyHook.NetHooker](https://github.com/Zst0ne/NetHookDll3):  A network packet capture tool implemented based on EasyHook. (C#) 2023
