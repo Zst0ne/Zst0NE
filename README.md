@@ -19,14 +19,14 @@ Skills: None
 ```
 
 ## ⚡ Label
-`Loser`  `Loser`  `Loser`  
+`Layer1`  `Layer2`  `Loser3`  
 
 ## 🚀 Description
 
-***Build the Web3 world.**  
+***Build the Web3 world,And Be prepare for enter the factory**  
 
 ## 🔭 Dream
-**I once had dreams, but now I think I'm a real wimp, Nobody cares.If I could do it all over again, I would never choose IT. **
+**I'm a real wimp, Nobody cares.If I could do it all over again, I would never choose IT. **
 ---
 
 **🌐 My Website:** 
@@ -41,4 +41,3 @@ Skills: None
 - [EasyHook.NetHooker](https://github.com/Zst0ne/NetHookDll3):  A network packet capture tool implemented based on EasyHook. (C#) 2023
 - [FiveM-FBIWarning-Scripts](https://github.com/Zst0ne/FiveM-Warning-FBI): GTA:W jokes. (Lua) 2024
 - [PHP-Hexo-blog](https://github.com/Zst0ne/blog):  PHP for imitating Hexo-theme-Butterfly blog. (PHP) 2025
-
