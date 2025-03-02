@@ -35,7 +35,7 @@ Skills: None
 - [Zst0ne.github.io](https://github.com/Zst0ne/Zst0NE.github.io):  The Hexo blog has recorded my life over the past few years. (Html5) Last Year
   
 **📚 My Project:**
-- ~~[Cube-Minecraft-platform](https://github.com/Zst0NE/Cube-Minecraft-platform):  Minecraft-based online game platform based on the FRP principle.(易语言) 2020~~
+- ~~[Cube-Minecraft-platform](https://github.com/Zst0NE/Cube-Minecraft-platform):  Minecraft-based online game platform based on the FRP/N2N/IPv6 hybrid principle.(易语言) 2020~~
 - [Aimbot-Yolov3-CSGO.pt](https://github.com/Zst0ne/Game-model-of-yolov5):  The Yolov3 Auto-Locking project implemented based on the Aimbot open-source project ps:Coop with Wocw233.(Python) 2021
 - [Bukkit-CS-example](https://github.com/Zst0NE/Bukkit-CS-example):  Minecraft Server CSGame rule Scripts by Bukkit. (Java) 2022
 - [EasyHook.NetHooker](https://github.com/Zst0ne/NetHookDll3):  A network packet capture tool implemented based on EasyHook. (C#) 2023
