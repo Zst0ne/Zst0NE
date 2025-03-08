@@ -23,10 +23,10 @@ Skills: None
 
 ## 🚀 Description
 
-***Build the Web3 world,And Be prepare for enter the factory**  
+**Build the Web3 world,And Be prepare for enter the factory**  
 
 ## 🔭 Dream
-**I'm a real wimp, Nobody cares.If I could do it all over again, I would never choose IT. **
+**人生若只如初见，何事秋风悲画扇。 **
 ---
 
 **🌐 My Website:** 
