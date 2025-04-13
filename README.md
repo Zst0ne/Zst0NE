@@ -19,14 +19,14 @@ Skills: None
 ```
 
 ## ⚡ Label
-`Layer1`  `Layer2`  `Loser3`  
+`Layer1`  `Layer2`  `Layer3`  
 
 ## 🚀 Description
-
-**Build the Web3 world,And Be prepare for enter the factory**  
+**Like my Crush Forever.**  
+**Build the Web3 world.**  
 
 ## 🔭 Dream
-**人生若只如初见，何事秋风悲画扇。 **
+人生若只如初见，何事秋风悲画扇。
 ---
 
 **🌐 My Website:** 
