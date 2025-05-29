@@ -22,7 +22,6 @@ Skills: None
 `Layer1`  `Layer2`  `Layer3`  
 
 ## 🚀 Description
-**Like my Crush Forever.**  
 **Build the Web3 world.**  
 
 ## 🔭 Dream
