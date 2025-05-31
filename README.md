@@ -1,8 +1,8 @@
-## Zst0NE
+## Zst0NE 人类浮生六世
 
 Thank you for visiting my repository.<br>
 
-**I am Student.**
+**孤独已成为常态。**
 
 ```cmd
 C:\Users\Stone> 
@@ -22,7 +22,7 @@ Skills: None
 `Layer1`  `Layer2`  `Layer3`  
 
 ## 🚀 Description
-**Build the Web3 world.**  
+**Currently learning about Web3.**  
 
 ## 🔭 Dream
 人生若只如初见，何事秋风悲画扇。
