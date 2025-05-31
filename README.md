@@ -1,8 +1,8 @@
-## Zst0NE 人类浮生六世
+## Zst0NE 孤独已成为常态。
 
 Thank you for visiting my repository.<br>
 
-**孤独已成为常态。**
+**人类浮生六世**
 
 ```cmd
 C:\Users\Stone> 
@@ -19,7 +19,7 @@ Skills: None
 ```
 
 ## ⚡ Label
-`Layer1`  `Layer2`  `Layer3`  
+`Idiot`  `Coward`  `Simp`  
 
 ## 🚀 Description
 **Currently learning about Web3.**  
