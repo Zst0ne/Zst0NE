@@ -22,7 +22,8 @@ Skills: None
 `Idiot`  `Coward`  `Simp`  
 
 ## 🚀 Description
-**Currently learning about Web3.**  
+**你总是为别人着想，但谁又替你想过呢？**
+**对任何事不要抱有希望，你想要的最后往往会是别人的，因为你太善良太老实。**  
 
 ## 🔭 Dream
 人生若只如初见，何事秋风悲画扇。
